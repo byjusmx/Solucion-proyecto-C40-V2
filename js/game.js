@@ -131,7 +131,7 @@ class Game{
 
     }
     showRank() {
-        alert("¡Impresionante! Terminaste el juego, tu posición es:" +player.rank)
+        alert("¡Impresionante! Terminaste el juego, tu puntuación es:" +player.rank)
       }
 
 gameOver() {
